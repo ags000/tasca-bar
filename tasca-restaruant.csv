@@ -2,4 +2,5 @@ id,nombre,tapa,racion,bebida,cafePostres,precio
 1,Arroz,1,0,0,,
 2,Carne con tomate,1,0,0,,
 3,Refresco,0,0,1,0,3
-3,Bebida 2,0,0,1,0,3
+4,Bebida 2,0,0,1,0,3
+5,Bebida 3,0,0,1,0,3
